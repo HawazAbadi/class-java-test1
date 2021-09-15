@@ -1,5 +1,1 @@
-
-
-this is my first java class
-
-i'm from tigray
+Java is my first class
